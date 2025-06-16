@@ -40,3 +40,7 @@ This webpage serves as a foundational example of responsive design. It ensures t
 * The layout remains visually appealing and functional without external libraries like Bootstrap or Tailwind.
 
 In conclusion, this project delivers a **clean, efficient, and fully responsive webpage** that meets the current standards of web design. It is ideal for portfolios, small business websites, or as a learning tool for students and developers looking to understand responsive web design principles. The combination of simple code and solid design makes it both educational and practical.
+
+## OUTPUT-
+
+![Image](https://github.com/user-attachments/assets/93fce7bf-a5af-4177-b23d-6ed79cb07d99)
